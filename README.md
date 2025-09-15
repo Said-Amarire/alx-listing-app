@@ -1,7 +1,7 @@
 # ALX Listing App
 
-An Airbnb-style listing application built with Next.js, TypeScript, TailwindCSS, and ESLint.
-This project serves as the foundation for creating a responsive property listing page with reusable UI components and a clean, maintainable codebase.
+**An Airbnb-style listing application built with Next.js, TypeScript, TailwindCSS, and ESLint.
+This project serves as the foundation for creating a responsive property listing page with reusable UI components and a clean, maintainable codebase.**
 
 ## 🚀 Project Goal
 
